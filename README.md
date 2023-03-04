@@ -1,11 +1,11 @@
-About idds-doma
-===============
+About idds-doma-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/idds-doma-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/idds-doma/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/idds-doma-feedstock/blob/main/LICENSE.txt)
 
 Summary: intelligent Data Delivery Service(iDDS) Package
 
