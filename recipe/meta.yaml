@@ -1,5 +1,5 @@
 {% set name = "idds-doma" %}
-{% set version = "1.3.3" %}
+{% set version = "1.3.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: c22766f3a85814063400a5e0be414b4ec54fb83845ec64052e9d9b3d94390e28
+  sha256: cbc28a291f80166f364db3cc7cb88bbdc9b0cd2404cd39bb8e635b9e9e5a6e55
 
 build:
   number: 0
